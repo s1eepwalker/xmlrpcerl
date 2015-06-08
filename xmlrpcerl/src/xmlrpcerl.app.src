@@ -1,0 +1,12 @@
+{application, 'xmlrpcerl',
+ [{description, "XML RPC Clinet"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {'xmlrpcerl_app', []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []}
+ ]}.

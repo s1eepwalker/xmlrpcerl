@@ -1,0 +1,5 @@
+## Name of the node
+-sname xmlrpc
+
+## Cookie for distributed erlang
+-setcookie 123

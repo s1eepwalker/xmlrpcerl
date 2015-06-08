@@ -1,4 +1,6 @@
 .eunit
+_build
+rebar.lock
 deps
 *.o
 *.beam
