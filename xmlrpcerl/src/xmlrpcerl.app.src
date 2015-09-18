@@ -6,7 +6,10 @@
   {applications,
    [kernel,
     stdlib,
+    inets,
+    xmerl,
     lager
+
    ]},
   {env,[]},
   {modules, []}
